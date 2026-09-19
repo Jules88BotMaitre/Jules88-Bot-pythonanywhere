@@ -40,7 +40,7 @@ DELAI_ENTRE_EDITS = 2
 
 # Une page est considérée comme vide uniquement si elle fait exactement
 # 0 octet (aucun caractère, pas même un espace)
-SEUIL_VIDE = 0
+SEUIL_VIDE = 2
 
 # Namespaces à ignorer complètement : Utilisateur (2) et Discussion
 # utilisateur (3) — ça exclut d'office les brouillons, les pages
